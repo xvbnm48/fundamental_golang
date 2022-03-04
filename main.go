@@ -11,4 +11,12 @@ func main() {
 	//sentence := TestAja()
 	//fmt.Println(sentence)
 	fmt.Println(result)
+
+	fmt.Println("proses perkalian")
+	result2 := calculation.ProsesKali(10, 10)
+	fmt.Println(result2)
+
+	var nama string = "sakura miyawaki"
+	fmt.Println(nama)
+
 }
